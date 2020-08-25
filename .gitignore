@@ -35,6 +35,6 @@ intellij-plugin/djinni.jar
 # profiling output
 callgrind.out.*
 
-# (gradel generated) eclipse files
+# (gradle generated) eclipse files
 .project
 .settings/
